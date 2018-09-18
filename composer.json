@@ -1,0 +1,12 @@
+{
+    "name": "root/stripe_api",
+    "authors": [
+        {
+            "name": "variable",
+            "email": "Horlasco34@gmail.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^6.17"
+    }
+}
